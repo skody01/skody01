@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Skody01</h1>
 <h3 align="center">A professional Retard</h3>
 
-- 🌱 I’m currently learning **C++ C#**
 
-- ⚡ Fun fact **All the girl run away from me**
 
 <h3 align="left">To Contact with me: Astar#2803</h3>
 <p align="left">
